@@ -1,5 +1,5 @@
 import { Image_Uris } from "./Image-Uris";
-import { Legalities } from "./legalities";
+import { Legalities } from "./Legalities";
 import { Multiverse_Ids } from "./Multiverse-Ids";
 import { Prices } from "./Prices";
 import { Purchase_Uris } from "./Purchase_Uris";
